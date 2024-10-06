@@ -1,0 +1,129 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+body {
+    font-family: 'Josefin Sans', Arial, sans-serif;
+    background-color: #b8c4d4;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+}
+
+h2 {
+    font-size: 2.5em;
+    text-align: center;
+    color: #333;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    transition: background-color 0.3s ease;
+}
+
+th {
+    background-color: #2870a0;
+    color: white;
+    font-size: 1.2em;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+
+/*
+
+@media screen and (max-width: 768px) {
+    th, td {
+        padding: 10px;
+    }
+    th {
+        font-size: 1em;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    table, th, td {
+        display: block;
+    }
+    th, td {
+        box-sizing: border-box;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    th, td::before {
+        content: attr(data-label);
+        flex: 1;
+        text-align: left;
+        padding: 5px 10px;
+        background-color: #f4f4f9;
+        color: #333;
+        font-weight: bold;
+        border: 1px solid #ddd;
+    }
+    th::before {
+        background-color: #4CAF50;
+        color: white;
+        font-size: 1.2em;
+    }
+    td {
+        padding: 10px;
+        text-align: right;
+    }
+}
+
+*/
+
+#downloadBtn {
+    background-color: #2870a0; /* Button background color */
+    color: white; /* Text color */
+    border: none; /* Remove default border */
+    padding: 12px 24px; /* Button padding */
+    font-size: 1.1em; /* Font size */
+    border-radius: 25px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition for hover effects */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    font-family: 'Josefin Sans', Arial, sans-serif; /* Ensure consistent font */
+    margin-top: 20px; /* Space above the button */
+}
+
+/* Hover effect */
+#downloadBtn:hover {
+    background-color: #1a5a78; /* Darker background on hover */
+    transform: translateY(-3px); /* Slight lift on hover */
+}
+
+/* Active effect */
+#downloadBtn:active {
+    background-color: #154659; /* Even darker background when pressed */
+    transform: translateY(1px); /* Button sinks slightly when pressed */
+}
+
+
+@media screen and (max-width: 480px) {
+    body {
+        background-position: center;
+        background-size: cover;
+    }
+}

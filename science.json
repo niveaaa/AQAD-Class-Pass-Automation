@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "red-dominion-425713-f7",
+  "private_key_id": "6c22379e7994fd4389f980fa071749455ef92f44",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDq7Ycl5vn9/WIL\nk2x7LKhegJ3sb1MjJlzFW/kDjqtliPNEHIyE0c/45IEFBbkbvS0I8k6no8DpOwvX\njhgJhgycc2aWmtIKlYm0euLsz3wA7nUHlLC75ko2eqicusfsLT8R19Q5aDUBWxcF\nxQm+e6otWsz9VwuBdfMPJhzAceqNo2qmZpimSS7BUf1LIIP44zySMaa82/7xROAk\nirDCPTMofGT0dKFRuovajlk9h5jBk/9kHvyLP5Q2d5F9keSwhqeaIGtv7E+E9MrW\nVa2bDq86qc8xSmTBvX4Hy3XH4vBkhYNao5TmqZNQifUNT6B7jGESUCZEUgqGy9sT\nf1W4tOgDAgMBAAECggEANEOrsW71ZuAcE980XyLMQlnyyErsAAHk2bNgbr4qu2gA\nVsLTMClNT13mpitjxxwLDNZ7UShJHpoYRFhEWLoNzDCQPikrWVdzT0eXfH+cYsiq\nGImn1+Wf1QbsxBF5sL1QLrQJbswUHr0ZHht703jHn1d4C1R2JtMKw/ACrX2qZN/t\nB3Ro/Gkf6EqSR1K+bX9BfWZKqOD8jBhc0PNuSgQsdOZ9UjD5u/Je+5Mv4iRd+pQh\nHX2MKA/2gnSalxb8Mxta35hCCoU3Z0xINdz880akKLz1bSQykV/BngtkJ5vN/LRk\nIvUJnceVg2u+AdoiHcn9wHxqOfKH1p/g+GIk8woWQQKBgQD91GbXk++uAnCq+c4F\nLmumxDgGwACyDPgq5vORQ07+H7v2Ew5u0+zt9KaSQPIihqJM+BqJpYiQYmIDLzA5\nYD4V4odnRR58JZX7oYchCrTzwE8ZVvSoY0UXAOaZs0q3MheTfj+CEhT6tLO4AwBN\n/ZLC2OLJfUDWj2ifOJ3bpe3BawKBgQDs78CtUl2AKK2VtVD9WMzdtj14HB3bPEku\nKLoK0mT/kV+u2dgL6s2itcHuXThmljXUGv3jYfSQdoyVMcTZ12uCtKnF9khZTFe5\nd2/lQ4XHSbu8ERaZ7VqkKx3ZtcfQQniY/m7zGxLRTe0cAK941z1Ut4cpHV7ZfFgS\n54nNa1vhyQKBgHd/9eLsTNy5XV3BOZMK5befjVjwL+OjY3qfPHBZJelR+2XAVv0q\nXNMyaPFWDijfBa4C6EuBWSfQiaBCKQv6GYCoI2MlEVMVRuUuiLWvmr1e/l5Jp+lW\nwwIvdGFMHZLdzGet+iw8YxAc3rd1AkG1bdC51xtREqNw5KqBNyBfn+19AoGBAJWm\n8ToIFgqGpu0yMs9yMSOwoa6lg64fq9E95BRFw4kwlxDng3AzhGLLDoyx0JfrNGCe\nE9J04nYEitMJNl6pk7xgxALHhfbxI09/wus59NtlFPC6kl3y7xdWLGqASI6gDXAE\n9KsUZJRS9fqD7FEVEiXaLcKoTGpuAWsfV4ip0MURAoGAEfLAyfiYuGsxiTPgx8uI\nvlPM2zE09zqEhscYsLEZrA8gsH1FU/9urRlAmKKIXImN/NBXPc//tt1X3KxkDlhp\n82w02/b+470Km3LOUU4ICDoXAqiu92yI8yjeqaCo2QEGFETw14T3sVAwybgno3jI\n9WWrxXHaD1v72XKPKsN3GZ4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "anukampa@red-dominion-425713-f7.iam.gserviceaccount.com",
+  "client_id": "102998560977482066209",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anukampa%40red-dominion-425713-f7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
